@@ -1,9 +1,0 @@
-*.iml
-.idea
-.DS_Store
-.ruby-version
-.ropeproject/
-*.log
-npm*.log*
-.vim-bookmarks
-tags
